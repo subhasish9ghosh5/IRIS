@@ -36,3 +36,7 @@ The Iris dataset is a classic dataset in the field of machine learning and data 
 
 - Species: This column likely represents the species of iris flower corresponding to each entry in the dataset. This column is categorical and can take on values such as 'Iris-setosa', 'Iris-versicolor', or 'Iris-virginica'.
 
+
+# Summarizing the report findings, here are the results of the analysis :
+
+## LINE PLOT:
