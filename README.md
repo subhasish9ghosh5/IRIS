@@ -21,3 +21,18 @@ The Iris dataset is a classic dataset in the field of machine learning and data 
 
 - The dataset is balanced, meaning it contains an equal number of samples for each class.
 
+
+## Explanation of columns:
+
+- ID: This column likely represents a unique identifier for each entry in the dataset. It's used to distinguish one entry from another.
+
+- SepalLength: This column represents the length of the sepal (a part of the flower) measured in some unit (possibly centimeters or inches).
+
+- SepalWidth: This column represents the width of the sepal, usually measured in the same unit as the length.
+
+- PetalLength: This column represents the length of the petal (another part of the flower), likely measured in the same unit as the sepal.
+
+- PetalWidth: This column represents the width of the petal, typically measured in the same unit as the length and width of the sepal.
+
+- Species: This column likely represents the species of iris flower corresponding to each entry in the dataset. This column is categorical and can take on values such as 'Iris-setosa', 'Iris-versicolor', or 'Iris-virginica'.
+
