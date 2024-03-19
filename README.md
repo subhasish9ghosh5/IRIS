@@ -39,6 +39,64 @@ The Iris dataset is a classic dataset in the field of machine learning and data 
 
 # Summarizing the report findings, here are the results of the analysis :
 
-## LINE PLOT:
+## LINE PLOT
 
-Plot a line graph showing the sepal length of the three species of Iris flowers.
+- Plot a line graph showing the sepal length of the three species of Iris flowers.
+
+<p align="center">
+  <img width="460" height="300" src="iris image/line.png">
+</p>
+
+## Scatter Plot
+
+- Create a scatter plot showing the relationship between the petal length and petal width.Use different colors to represent each species.
+
+  <p align="center">
+  <img width="460" height="300" src="iris image/scatter.png">
+</p>
+
+
+## Histogram
+
+- Plot a histogram showing the distribution of the petal widths. Use different colors to represent each species and display a legend.
+
+ <p align="center">
+  <img width="460" height="300" src="iris image/histogram.png">
+</p>
+
+## Bar Plot
+
+- Create a bar plot showing the average sepal width for each species.
+
+ <p align="center">
+  <img width="460" height="300" src="iris image/bar.png">
+</p>
+
+## Pie Chart
+
+- Assume that the dataset represents the entire population of Iris flowers. Create a pie chart showing the proportion of each species in the population.
+
+ <p align="center">
+  <img width="460" height="300" src="iris image/pie.png">
+</p>
+
+## Box Plot
+
+- Create a box plot showing the distribution of sepal length for each species.
+
+ <p align="center">
+  <img width="460" height="300" src="iris image/box.png">
+</p>
+
+## Pairplots
+
+- Combine the scatter plot and the histogram into one figure by using pairplots.
+
+ <p align="center">
+  <img width="460" height="300" src="iris image/pair.png">
+</p>
+
+# Conclusion :
+
+The Iris project serves as a foundational project in the field of machine learning, providing practitioners with hands-on experience in data preprocessing, model selection, training, evaluation, and optimization. By successfully classifying iris flowers into their respective species, the project demonstrates the application of classification algorithms in real-world scenarios.
+
