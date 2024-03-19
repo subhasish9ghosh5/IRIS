@@ -100,3 +100,8 @@ The Iris dataset is a classic dataset in the field of machine learning and data 
 
 The Iris project serves as a foundational project in the field of machine learning, providing practitioners with hands-on experience in data preprocessing, model selection, training, evaluation, and optimization. By successfully classifying iris flowers into their respective species, the project demonstrates the application of classification algorithms in real-world scenarios.
 
+## Author
+
+
+Subhasish Ghosh - Data Analyst - Subhasish Ghosh - All work
+-
