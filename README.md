@@ -40,3 +40,5 @@ The Iris dataset is a classic dataset in the field of machine learning and data 
 # Summarizing the report findings, here are the results of the analysis :
 
 ## LINE PLOT:
+
+Plot a line graph showing the sepal length of the three species of Iris flowers.
